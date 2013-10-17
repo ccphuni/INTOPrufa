@@ -34,7 +34,12 @@ int main( )
 	int val;
 	do
 	{
+<<<<<<< HEAD
 		cout << "Gustaf was here!" << endl << endl << endl;
+=======
+		cout << endl << endl << endl;
+		cout << "Huni was here!"
+>>>>>>> e99232b8bbeffaba4a8885269f3ffedb7e44045b
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
