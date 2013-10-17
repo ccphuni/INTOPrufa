@@ -46,6 +46,7 @@ int main( )
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
 		cin >> val;
+		cout << "Fyrst var svort nott... en svo kom helgi. Nu er helgi einn og that er dimmt"<<endl;
 		switch ( val )
 		{
 		case 1:
